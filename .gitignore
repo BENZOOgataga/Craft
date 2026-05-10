@@ -1,1 +1,7 @@
 .ignore
+.claude/settings.local.json
+node_modules/
+dist/
+.env
+.env.local
+*.local
