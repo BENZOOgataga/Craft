@@ -1,0 +1,11 @@
+{
+  "enabledPlugins": {
+    "animated-component-libraries@claude-design-skillstack": true,
+    "motion-framer@claude-design-skillstack": true,
+    "modern-web-design@claude-design-skillstack": true,
+    "core-3d-animation@claude-design-skillstack": true,
+    "scroll-reveal-libraries@claude-design-skillstack": true,
+    "impeccable@impeccable": true,
+    "ui-ux-pro-max@ui-ux-pro-max-skill": true
+  }
+}
