@@ -7,3 +7,4 @@ dist/
 *.local
 .playwright-mcp/
 *.png
+!docs/screenshots/*.png

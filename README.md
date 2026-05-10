@@ -11,6 +11,28 @@ A production-quality interactive frontend showcase demonstrating advanced React 
 
 ---
 
+## Screenshots
+
+### Hero
+![Hero section](docs/screenshots/hero-validation.png)
+
+### Feature Grid
+![Feature grid](docs/screenshots/features-validation.png)
+
+### Component Lab
+![Component lab](docs/screenshots/components-validation.png)
+
+### Dashboard Preview
+![Dashboard preview](docs/screenshots/dashboard-validation.png)
+
+### Experimental - 3D Tilt System
+![Experimental section](docs/screenshots/experimental-validation.png)
+
+### Final CTA
+![Final CTA](docs/screenshots/cta-validation.png)
+
+---
+
 ## Stack
 
 - **React 18** + **TypeScript** (strict mode)
