@@ -1,5 +1,12 @@
 # Craft - Premium Frontend Showcase
 
+![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.7-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-6-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-3-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-11-0055FF?style=flat-square&logo=framer&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn/ui-latest-000000?style=flat-square)
+
 A production-quality interactive frontend showcase demonstrating advanced React UI engineering, Framer Motion animation systems, shadcn/ui, and modern design patterns.
 
 ---
