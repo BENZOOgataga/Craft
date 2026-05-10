@@ -12,6 +12,47 @@
       "sourceType": "github",
       "skillPath": "skills/shadcn/SKILL.md",
       "computedHash": "f0fdd03f4755cbb3b57e20fe6fd4a97c00d34e6780187b6559316986e8d848db"
+    },
+    "motion-framer": {
+      "source": "claude-design-skillstack/motion-framer",
+      "sourceType": "marketplace",
+      "version": "1.0.0",
+      "description": "Framer Motion animation patterns for React — variants, gestures, layout animations, scroll effects"
+    },
+    "animated-component-libraries": {
+      "source": "claude-design-skillstack/animated-component-libraries",
+      "sourceType": "marketplace",
+      "version": "1.0.0",
+      "description": "Animated UI component library patterns and best practices"
+    },
+    "modern-web-design": {
+      "source": "claude-design-skillstack/modern-web-design",
+      "sourceType": "marketplace",
+      "version": "1.0.0",
+      "description": "Modern web design patterns, glassmorphism, dark mode, responsive layouts"
+    },
+    "core-3d-animation": {
+      "source": "claude-design-skillstack/core-3d-animation",
+      "sourceType": "marketplace",
+      "version": "1.0.0",
+      "description": "3D animation and CSS perspective effects, BabylonJS, Three.js, React Three Fiber"
+    },
+    "scroll-reveal-libraries": {
+      "source": "claude-design-skillstack/scroll-reveal-libraries",
+      "sourceType": "marketplace",
+      "version": "1.0.0",
+      "description": "Scroll-triggered reveal animations using Framer Motion, GSAP ScrollTrigger, AOS"
+    },
+    "ui-ux-pro-max": {
+      "source": "ui-ux-pro-max-skill/ui-ux-pro-max",
+      "sourceType": "marketplace",
+      "version": "2.5.0",
+      "description": "UI/UX design intelligence — 67 styles, 161 palettes, 57 font pairings, 25 chart types"
+    },
+    "caveman": {
+      "source": "caveman/caveman",
+      "sourceType": "marketplace",
+      "description": "Ultra-compressed communication mode — cuts ~75% tokens while keeping full technical accuracy"
     }
   }
 }
