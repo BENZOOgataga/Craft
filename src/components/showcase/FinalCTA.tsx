@@ -119,9 +119,11 @@ export function FinalCTA() {
               whileHover={{ scale: 1.04, y: -2 }}
               whileTap={{ scale: 0.97 }}
             >
-              <Button size="xl" variant="outline" className="gap-2">
-                <Github className="h-4 w-4" />
-                View source
+              <Button size="xl" variant="outline" className="gap-2" asChild>
+                <a href="https://github.com/BENZOOgataga/Craft" target="_blank" rel="noopener noreferrer">
+                  <Github className="h-4 w-4" />
+                  View source
+                </a>
               </Button>
             </motion.div>
           </motion.div>

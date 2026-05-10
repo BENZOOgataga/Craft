@@ -213,9 +213,11 @@ export function Hero() {
             </Button>
           </motion.div>
           <motion.div whileHover={{ scale: 1.03, y: -2 }} whileTap={{ scale: 0.97 }}>
-            <Button size="lg" variant="outline" className="gap-2 text-base h-12 px-7">
-              <Github className="h-4 w-4" />
-              View source
+            <Button size="lg" variant="outline" className="gap-2 text-base h-12 px-7" asChild>
+              <a href="https://github.com/BENZOOgataga/Craft" target="_blank" rel="noopener noreferrer">
+                <Github className="h-4 w-4" />
+                View source
+              </a>
             </Button>
           </motion.div>
         </motion.div>

@@ -104,7 +104,7 @@ export function Nav() {
             {/* Right CTA */}
             <div className="flex items-center gap-3">
               <motion.a
-                href="https://github.com"
+                href="https://github.com/BENZOOgataga/Craft"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hidden sm:flex items-center gap-1.5 text-sm text-muted-foreground hover:text-foreground transition-colors"
@@ -178,8 +178,10 @@ export function Nav() {
                 <Button className="flex-1" size="sm">
                   Explore
                 </Button>
-                <Button variant="outline" size="sm" className="flex-1">
-                  Source
+                <Button variant="outline" size="sm" className="flex-1" asChild>
+                  <a href="https://github.com/BENZOOgataga/Craft" target="_blank" rel="noopener noreferrer">
+                    Source
+                  </a>
                 </Button>
               </div>
             </nav>
