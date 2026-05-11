@@ -53,6 +53,12 @@
       "source": "caveman/caveman",
       "sourceType": "marketplace",
       "description": "Ultra-compressed communication mode — cuts ~75% tokens while keeping full technical accuracy"
+    },
+    "superpowers": {
+      "source": "obra/superpowers",
+      "sourceType": "github",
+      "version": "5.1.0",
+      "description": "Core skills library: brainstorming, TDD, debugging, collaboration patterns — used for design spec phase"
     }
   }
 }
